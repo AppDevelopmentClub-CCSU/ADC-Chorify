@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535373397987",
+    "firebase_url": "https://chorify-69801.firebaseio.com",
+    "project_id": "chorify-69801",
+    "storage_bucket": "chorify-69801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535373397987:android:2f8de17017d6a0ab",
+        "android_client_info": {
+          "package_name": "appdevelopmentclub.chorify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535373397987-jfvua5mhuljrdl2knnu3ifi7ba2l3sq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appdevelopmentclub.chorify",
+            "certificate_hash": "33daeb0d2433246ac820d55dc94246b5e119d5d1"
+          }
+        },
+        {
+          "client_id": "535373397987-6vj7a8varha5stkg81m0m1es9vn9m1no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYatb64QtlB-L_EtHK9z_fwPgGNF_Yr0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535373397987-6vj7a8varha5stkg81m0m1es9vn9m1no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
