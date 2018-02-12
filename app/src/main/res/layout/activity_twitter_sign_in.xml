@@ -11,6 +11,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="420dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
         android:text="Welcome to Chorify"
         android:textSize="32sp"
         app:layout_constraintBottom_toBottomOf="parent"

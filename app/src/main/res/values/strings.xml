@@ -3,5 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="twitter_consumer_key" translatable="false">ElPfQwInjHTrfvAvCwPus0Azy</string>
     <string name="twitter_consumer_secret" translatable="false">o3hLrgCmy7uqNqXOwJRTISJkF6f2y3LcwVnvJUehrwrWVvpiK4</string>
+    <string name="title_activity_profile">ProfileActivity</string>
 
 </resources>
