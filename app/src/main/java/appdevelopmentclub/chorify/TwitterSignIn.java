@@ -158,6 +158,7 @@ public class TwitterSignIn extends AppCompatActivity implements View.OnClickList
 
                 String name = profile.getDisplayName();
                 mDetailTextView.setText(name);
+
             }
 
         } else {
